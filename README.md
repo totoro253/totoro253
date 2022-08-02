@@ -1,7 +1,3 @@
-
-
-- 🌱 I’m currently learning Pygame,react and excel
-preview
 <h1 align="center">Hi 👋, I'm Fauve</h1>
 <h3 align="center">I am a junior developer who likes to discover new tools and languages
 🌱 I’m currently learning Pygame,react and excel</h3>
