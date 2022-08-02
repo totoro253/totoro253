@@ -4,9 +4,10 @@
 <h1 align="left">
 <h3>Languages</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsetrodinomo&show_icons=true&locale=en&layout=compact" alt="fsetrodinomo" />
+<br>
+<br>
+<br>
 </h1>
-<br>
-<br>
 <br>
 <h1 align="left">
   <h3>Tools</h3>
