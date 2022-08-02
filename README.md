@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauve</h1>
-<h3 align="center">
-🌱 I’m currently learning Pygame,react and excel</h3>
+<h3>🌱 I’m currently learning Pygame,react and excel</h3>
 <br>
 <h1 align="left">
 <h3>Languages and tools</h3>
@@ -8,5 +7,6 @@
 </h1>
 <br>
 <h1 align="left">
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsetrodinomo&show_icons=true&locale=en&layout=compact" alt="fsetrodinomo" />
 </h1>
