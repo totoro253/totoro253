@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fauve</h1>
+<h1 align="center">Hi 👋, 
+<br>
+  I'm Fauve</h1>
 
 <h2> Progress 🌱  </h2>
 
