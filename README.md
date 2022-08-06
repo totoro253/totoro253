@@ -3,9 +3,6 @@
   I'm Fauve</h1>
 
 <h2> Progress 🌱  </h2>
-
-- 🔭 I’m currently working on [Financial dashboard(Excel)](https://github.com/fsetrodinomo/FinanceDashboard)
-- 🔭 I’m currently working on [Streetfighter(Pygame)](https://github.com/fsetrodinomo/Streetfighter)
 - 🔭 I’m currently working on [Portfolio website(React and Spline) ](https://github.com/fsetrodinomo/WebsiteFS)
 - 💬 Talk to me about Python, C#, React and R, I like tech so if I didn't mention your preferred language or topic go ahead and ask, big chances that I am curious ^^
 
