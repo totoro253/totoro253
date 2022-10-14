@@ -7,7 +7,8 @@ Main focus:
 
 <h2>Fun project⚡</h2> 
 - Streetfigher(Pygame)
-
+<br>
+- Tiktok clone(React)
 
 <h2> Learning 🌱  </h2>
 - 🔭 React and Python
