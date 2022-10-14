@@ -9,10 +9,3 @@ Main focus:
 - Streetfigher(Pygame)
 <br>
 - Tiktok clone(React)
-
-<h2> Things I :yellow_heart: </h2>
-- 📘  Reading
-<br>
-- 💻  Coding
-<br>
-- 🚶   Walking
