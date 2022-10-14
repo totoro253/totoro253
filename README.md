@@ -1,10 +1,11 @@
 <h2>Projects in progress 👨‍💻 </h2>
 Main focus:
+<br>
 - Audio analyzer(Python)
 <br>
 - Portfolio website(React)
 
-Fun projects :
+<h2>Fun project⚡</h2> 
 - Streetfigher(Pygame)
 
 
