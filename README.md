@@ -9,7 +9,3 @@ Main focus:
 - Streetfigher(Pygame)
 <br>
 - Tiktok clone(React)
-<div align="left">
-  <img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif" width="150" height="100"/>
-</div>
-
