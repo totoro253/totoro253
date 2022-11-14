@@ -9,3 +9,9 @@ Main focus:
 - Streetfigher(Pygame)
 <br>
 - Tiktok clone(React)
+
+<h2>10 lines of code🌴 </h2>
+<br>
+- Convert CSV to JSON (Python)
+<br>
+- 
