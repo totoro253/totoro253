@@ -6,8 +6,6 @@ Main focus:
 - Portfolio website(React)
 
 <h2>Fun project⚡</h2> 
-- Streetfigher(Pygame)
-<br>
 - Tiktok clone(React)
 
 <h2>10 lines of code🌴 </h2>
