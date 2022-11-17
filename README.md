@@ -5,9 +5,7 @@ Main focus:
 <br>
 - Portfolio website(React)
 
-<h2>Fun project⚡</h2> 
-- Tiktok clone(React)
-
-<h2>10 lines of code🌴 </h2>
-- Convert CSV to JSON (Python)
-
+<h2>10 lines of code 🌴 </h2>
+<i> Nothing seriously , sometimes a couple lines of code can be just fun 😜</i> <br>
+- Convert CSV to JSON (Python)<br>
+- Country info (Python)
