@@ -3,6 +3,6 @@
 - Convert CSV to JSON (Python)<br>
 - Country info (Python)
 
-<h2>Currently learning in spare time🌸</h2>
+<h2>Subjects which I am curious about👀</h2>
+Subject: Data preproccessing, modelling, basic of statistics, machine learning, artificial intelligence, front end development, API's <br>
 In process project: Stock market dashboard<br>
-In process project: GermanCredit(private)<br>
