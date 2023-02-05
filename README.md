@@ -9,3 +9,8 @@ Main focus:
 <i> Nothing seriously , sometimes a couple lines of code can be just fun 😜</i> <br>
 - Convert CSV to JSON (Python)<br>
 - Country info (Python)
+
+<h2>Currently learning🌸</h2>
+Learning: R & R Shiny
+In process project: Shiny Finance with Tidyquant 
+In process project: GermanCredit
