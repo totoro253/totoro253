@@ -11,6 +11,6 @@ Main focus:
 - Country info (Python)
 
 <h2>Currently learning🌸</h2>
-Learning: R & R Shiny
-In process project: Shiny Finance with Tidyquant 
-In process project: GermanCredit
+Learning: R & R Shiny<br>
+In process project: Shiny Finance with Tidyquant <br>
+In process project: GermanCredit(private)<br>
