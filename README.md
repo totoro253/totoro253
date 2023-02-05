@@ -4,6 +4,5 @@
 - Country info (Python)
 
 <h2>Currently learning in spare time🌸</h2>
-Learning: R & R Shiny<br>
 In process project: Shiny Finance with Tidyquant <br>
 In process project: GermanCredit(private)<br>
