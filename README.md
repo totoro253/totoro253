@@ -4,6 +4,6 @@
 - Country info (Python)
 
 <h2>Subjects which I am curious about👀</h2>
-Curious about: Front end development, Data preproccessing, modelling, basic of statistics, machine learning, artificial intelligence <br>
+Curious about: Front end development, data preproccessing, modelling, basic of statistics, data cleaning, machine learning, artificial intelligence <br>
 In process project: Stock market dashboard<br>
 
