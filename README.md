@@ -2,7 +2,7 @@
 - Performance analysis in TidyQuant (R)<br>
 - Graduating (React-native and TypeScript)
 <br>
-<h2>Daily brainfarts 👀</h2>
+<h2>Daily brainfarts 👀</h2>  
 - Where can I find a mini palmtree?<br>
 - How cool would it be if Sonic was alive ? <br>
 - Would Marcus Aurelius also likes water with sprakle ?<br>
