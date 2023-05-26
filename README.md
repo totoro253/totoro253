@@ -9,5 +9,7 @@
 - 💬 Ask me about **React and TypeScript**
 
 - ⚡ Fun fact **I love Ghibli and Pokemon, currently playing Pokemon brilliant diamond**
+- ⚡ Silly jokes **My boyfriend is sharper than C#, I am not pessimistic I just don't see ++*
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=totoro253&show_icons=true&locale=en" alt="totoro253" /></p>
