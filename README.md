@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ghislaine</h1>
+<h1 align="center">Hi 👋, I'm Fauve</h1>
 <h3 align="center">Passionated developer who likes to ask critical questions</h3>
 
 
