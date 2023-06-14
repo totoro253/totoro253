@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [performance analysis with financial data](https://github.com/totoro253/PerformanceAnalysis)
 
-- 🌱 I’m currently learning **TidyQuant and React**
+- 🌱 I’m currently learning **TidyQuant,Python, React**
 
 - 💬 Ask me about **React and TypeScript**
 
