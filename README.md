@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Fauve</h1>
 <h3 align="center">Passionated developer who likes to ask critical questions</h3>
 
-- 🔭 I’m currently working on [performance analysis with financial data](https://github.com/totoro253/PerformanceAnalysis)
+- 🔭 I’m currently working on [performance analysis with financial data](https://github.com/totoro253/PerformanceAnalysis) 
+
+- 🔭 I’m currently working on [Pokedex](https://github.com/totoro253/Pokedex)
 
 - 🌱 I’m currently learning **TidyQuant,Python, React**
 
