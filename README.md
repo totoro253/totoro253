@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [performance analysis with financial data](https://github.com/totoro253/PerformanceAnalysis) 
 
-- 🔭 I’m currently working on [Pokedex](https://github.com/totoro253/Pokedex)
+- 🔭 I’m currently working on [PokemonCodex](https://github.com/totoro253/PokemonCodex)
 
 - 🌱 I’m currently learning **TidyQuant,Python, React**
 
